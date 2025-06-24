@@ -3,44 +3,44 @@ site_name: Alarm5854
 nav:
 - Home: index.md
 - 数理基础课程:
-  - mathphys\index.md
-  - 数学分析（甲）Ⅰ（H）: mathphys\math_analysis1\index.md
-  - 数学分析（甲）Ⅱ（H）: mathphys\math_analysis2\index.md
-  - 线性代数Ⅰ（H）: mathphys\linear_algebra1\index.md
-  - 线性代数Ⅱ（H）: mathphys\linear_algebra2\index.md
-  - 普通化学（H）: mathphys\general_chemistry\index.md
-  - 普通化学实验（乙）: mathphys\chemistry_lab\index.md
-  - 普通物理学Ⅰ（H）: mathphys\general_physics1\index.md
-  - 普通物理学实验Ⅰ: mathphys\physics_lab1\index.md
-  - 离散数学: mathphys\discrete_math\index.md
+  - mathphys/index.md
+  - 数学分析（甲）Ⅰ（H）: mathphys/math_analysis1/index.md
+  - 数学分析（甲）Ⅱ（H）: mathphys/math_analysis2/index.md
+  - 线性代数Ⅰ（H）: mathphys/linear_algebra1/index.md
+  - 线性代数Ⅱ（H）: mathphys/linear_algebra2/index.md
+  - 普通化学（H）: mathphys/general_chemistry/index.md
+  - 普通化学实验（乙）: mathphys/chemistry_lab/index.md
+  - 普通物理学Ⅰ（H）: mathphys/general_physics1/index.md
+  - 普通物理学实验Ⅰ: mathphys/physics_lab1/index.md
+  - 离散数学: mathphys/discrete_math/index.md
 - 计算机类课程:
-  - computer_science\index.md
-  - 程序设计与算法基础: computer_science\programming\index.md
-  - 数据结构基础: computer_science\FDS\index.md
-  - 数字逻辑设计: computer_science\DD\index.md
+  - computer_science/index.md
+  - 程序设计与算法基础: computer_science/programming/index.md
+  - 数据结构基础: computer_science/FDS/index.md
+  - 数字逻辑设计: computer_science/DD/index.md
 - 思政类课程:
-  - political\index.md
-  - 思想道德与法治: political\moral\index.md
-  - 中国近现代史纲要（H）: political\modern_history\index.md
-  - 军事理论: political\military_theory\index.md
-  - 社会主义发展史: political\socialism_history\index.md
-  - 形势与政策Ⅰ: political\situation1\index.md
+  - political/index.md
+  - 思想道德与法治: political/moral/index.md
+  - 中国近现代史纲要（H）: political/modern_history/index.md
+  - 军事理论: political/military_theory/index.md
+  - 社会主义发展史: political/socialism_history/index.md
+  - 形势与政策Ⅰ: political/situation1/index.md
 - 体育课程:
-  - PE\index.md
-  - 军训: PE\military_training\index.md
-  - 游泳（初级）: PE\swim1\index.md
-  - 无线电测向（初级）: PE\radio1\index.md
+  - PE/index.md
+  - 军训: PE/military_training/index.md
+  - 游泳（初级）: PE/swim1/index.md
+  - 无线电测向（初级）: PE/radio1/index.md
 - 通识选修课程:
-  - general\index.md
-  - 百万立方未来世界: general\milcubes\index.md
-  - 心理学及应用: general\psy_app\index.md
-  - 经济法理论与实务: general\eco_law\index.md
-  - 博弈论基础: general\game_theory\index.md
-  - 心理卫生: general\psy_health\index.md
+  - general/index.md
+  - 百万立方未来世界: general/milcubes/index.md
+  - 心理学及应用: general/psy_app/index.md
+  - 经济法理论与实务: general/eco_law/index.md
+  - 博弈论基础: general/game_theory/index.md
+  - 心理卫生: general/psy_health/index.md
 - 混合特色课程:
-  - SHow_for_mIxTure\index.md
-  - 混合学习研讨班Ⅰ: SHow_for_mIxTure\discuss1\index.md
-  - 混合学习研讨班Ⅱ: SHow_for_mIxTure\discuss2\index.md
+  - SHow_for_mIxTure/index.md
+  - 混合学习研讨班Ⅰ: SHow_for_mIxTure/discuss1/index.md
+  - 混合学习研讨班Ⅱ: SHow_for_mIxTure/discuss2/index.md
 
 
 theme:
