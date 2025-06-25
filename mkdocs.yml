@@ -24,10 +24,19 @@ nav:
     - mathphys/general_chemistry/index.md
     - 历年期末卷: mathphys/general_chemistry/exam/index.md
     - 章节测试: mathphys/general_chemistry/quiz/index.md
-  - 普通化学实验（乙）: mathphys/chemistry_lab/index.md
-  - 普通物理学Ⅰ（H）: mathphys/general_physics1/index.md
-  - 普通物理学实验Ⅰ: mathphys/physics_lab1/index.md
-  - 离散数学: mathphys/discrete_math/index.md
+  - 普通化学实验（乙）: 
+    - mathphys/chemistry_lab/index.md
+    - 实验报告: mathphys/chemistry_lab/reports/index.md
+  - 普通物理学Ⅰ（H）: 
+    - mathphys/general_physics1/index.md
+    - 历年期末卷: mathphys/general_physics1/exam/index.md
+    - 历年期中卷: mathphys/general_physics1/mid/index.md
+  - 普通物理学实验Ⅰ: 
+    - mathphys/physics_lab1/index.md
+    - 实验报告: mathphys/physics_lab1/reports/index.md
+  - 离散数学: 
+    - mathphys/discrete_math/index.md
+    - 历年期末卷: mathphys/discrete_math/exam/index.md
 - 计算机类课程:
   - computer_science/index.md
   - 程序设计与算法基础: computer_science/programming/index.md
