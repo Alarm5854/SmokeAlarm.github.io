@@ -27,6 +27,7 @@ nav:
   - 普通化学实验（乙）: 
     - mathphys/chemistry_lab/index.md
     - 实验报告: mathphys/chemistry_lab/reports/index.md
+    - 历年期末卷: mathphys/chemistry_lab/exam/index.md
   - 普通物理学Ⅰ（H）: 
     - mathphys/general_physics1/index.md
     - 历年期末卷: mathphys/general_physics1/exam/index.md
