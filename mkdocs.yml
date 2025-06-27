@@ -172,5 +172,7 @@ extra_javascript:
 plugins:
   - search
   - mask
-
+  
+extra_css:
+  - assets/masked.css
 # copyright: Copyright © Alarm5854
