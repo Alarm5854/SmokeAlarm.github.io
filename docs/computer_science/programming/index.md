@@ -20,3 +20,10 @@
 - 数组和指针
 - 结构体
 - 输入与输出（涉及文件操作）
+
+## 5 可练习平台（除pintia）
+[洛谷](https://www.luogu.com.cn/)（入门\~竞赛）
+
+[codeforces](https://codeforces.com/)（竞赛）
+
+[atcoder](https://atcoder.jp/)（竞赛）
