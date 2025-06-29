@@ -1,7 +1,9 @@
 site_name: Alarm5854
 
 nav:
-- Home: index.md
+- Home: 
+  - index.md
+  - 学期总结: summary/index.md
 - 数理基础课程:
   - mathphys/index.md
   - 数学分析（甲）Ⅰ（H）: 
